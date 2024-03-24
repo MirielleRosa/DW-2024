@@ -1,0 +1,28 @@
+/* <!-- Exercício 8.3 --> */
+#titulo {
+    font-size: 24px;
+    color: #368f80;
+    font-weight: bold;
+}
+
+/* Exercício 8.4 */
+.destaque {
+    background-color: yellow;
+    padding: 10px;
+    border: 2px solid black;
+}
+
+/* Exercício 8.12 */
+.container div {
+    margin: 10px;
+}
+
+/* Exercício 8.15  */
+.lista li {
+    font-size: 14px;
+}
+
+/* Exercício 8.18 */
+#conteudo p {
+    color: red;
+}

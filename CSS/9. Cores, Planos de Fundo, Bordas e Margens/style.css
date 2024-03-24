@@ -1,0 +1,27 @@
+/* Exercício 9.1  */
+.fundo-vermelho {
+    background-color: red;
+}
+
+/* Exercício 9.3  */
+.tom-verde {
+    background-color: rgb(50, 205, 50);
+}
+
+/* Exercício 9.4 */
+ul {
+    color: rgba(128, 128, 128, 0.5);
+}
+
+/* Exercício 9.13 */
+.gradiente-radial {
+    background-image: radial-gradient(circle, yellow, orange);
+}
+
+/* Exercício 9.20  */
+.bordas-personalizadas {
+    border-left: 3px dashed blue;
+    border-right: 3px dashed blue;
+    border-top: 2px dotted yellow;
+    border-bottom: 2px dotted yellow;
+}
