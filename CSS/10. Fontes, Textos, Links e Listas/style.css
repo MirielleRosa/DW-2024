@@ -1,0 +1,25 @@
+/* Exercício 10.1 */
+p {
+    color: #3366cc; 
+}
+
+/* Exercício 10.13 e 10.15*/
+a {
+    background-color: transparent;
+    border: none; 
+}
+
+a:active {
+    background-color: #ffcc00; 
+    border: 1px solid #000; 
+}
+
+/* Exercício 10.17 */
+.romanos {
+    list-style-type: lower-roman; 
+}
+
+/* Exercício 10.19  */
+ul {
+    list-style-position: outside; 
+}

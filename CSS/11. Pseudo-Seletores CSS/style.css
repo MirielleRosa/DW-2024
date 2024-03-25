@@ -1,0 +1,27 @@
+/* Exercício 11.3 */
+p::first-letter {
+    font-size: 150%;
+}
+
+/* Exercício 11.4 */
+
+p::first-line {
+    color: red; 
+}
+
+/* Exercício 11.7 */
+h2:first-of-type {
+    color: blue;
+}
+
+/* Exercício 11.14 */
+input:required,
+select:required,
+textarea:required {
+    border: 1px solid red; 
+}
+
+/* Exercício 11.20  */
+input[type="submit"]:hover {
+    background-color: #ff0000; 
+}
